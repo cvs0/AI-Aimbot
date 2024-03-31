@@ -11,6 +11,5 @@ seaborn
 requests
 ipython
 psutil
-dxcam
 onnxruntime_directml
 bettercam
