@@ -2,24 +2,12 @@
 
 ![World's Best AI Aimbot Banner](imgs/banner.png)
 
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 
-## ✨BEST EXPERIENCE, Use our Launcher and the Launcher Custom Code Pack!✨
-### Over 6,000 users use the Launcher
-
-### 🔴 LIVE: Aimbot Internation 2024 - Win $1,000s
-Prepare your custom code and submit it for the aimbot internation which ends later this year. Work alone or solo. Check out the following videos to learn more.
-
-All custom code must be submitting thru the launcher.
-https://youtube.com/live/mtV6w2qhaNs?feature=share
-
-
-Download the [RootKit Launcher](https://github.com/RootKit-Org/Launcher). It is FREE. **No coding required.**
-
-It will auto-setup everything for you!
 
 Want to make your own bot? Then use the [Starter Code Pack](https://github.com/RootKit-Org/AI-Aimbot-Starter-Code)!
-
+--
+--
 ## 🙌 Welcome Aboard!
 We're a charity on a mission to educate and certify the upcoming wave of developers in the world of Computer Engineering 🌍. Need assistance? Hop into our [Discord](https://discord.gg/rootkitorg) and toss your questions at `@Wonder` in the *#ai-aimbot channel* (be sure to stick to this channel or face the consequences! 😬). Type away your query and include `@Wonder` in there.
 
@@ -127,7 +115,7 @@ Follow these sparkly steps to get your TensorRT ready for action! 🛠️✨
    You can use one of the .engine models we supply. But if it doesn't work, then you will need to re-export it. Grab the `.pt` file here for the model you want. We recommend `yolov5s.py` or `yolov5m.py` [HERE 🔗](https://github.com/ultralytics/yolov5/releases/tag/v7.0).
 
 12. **Run the Export Script** 🏃‍♂️💻
-   Time to execute `export.py` with the following command. Patience is key; it might look frozen, but it's just concentrating hard! Can take up to 20 mintues.
+   Time to execute `export.py` with the following command. Patience is key; it might look frozen, but it's just concentrating hard! Can take up to 20 minutes.
    
    ```
    python .\export.py --weights ./yolov5s.pt --include engine --half --imgsz 320 320 --device 0
